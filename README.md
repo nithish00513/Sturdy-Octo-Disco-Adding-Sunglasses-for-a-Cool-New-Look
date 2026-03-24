@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/539dbbe4-03b5-471e-a91c-c79ce0ece9c2" /># WORKSHOP 1
+# WORKSHOP 1
 
 # Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 
@@ -29,8 +29,8 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 
 ## PROGRAM:
 
-## DEVELOPED BY: JANARTHANAN K
-## REG NO: 212223040072
+## DEVELOPED BY:NITHISH KUMAR S
+## REG NO: 212224230190
 
 ## PYTHON:
 
