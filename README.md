@@ -1,4 +1,4 @@
-# WORKSHOP 1
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/539dbbe4-03b5-471e-a91c-c79ce0ece9c2" /># WORKSHOP 1
 
 # Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 
@@ -106,10 +106,11 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 
 # Display the images for clarity:
 
-<img width="623" height="555" alt="image" src="https://github.com/user-attachments/assets/e778b1aa-588e-4502-a9e9-530858801a18" />
+<img width="765" height="436" alt="image" src="https://github.com/user-attachments/assets/19e8801e-a284-4585-988b-b37c22a04326" />
 
-<img width="1106" height="244" alt="image" src="https://github.com/user-attachments/assets/7b5fe56e-d1aa-4dd1-8b27-7eb9f032df6e" />
 
-<img width="1123" height="204" alt="image" src="https://github.com/user-attachments/assets/ae364a66-045f-413f-9b7d-404f1960717c" />
+<img width="733" height="537" alt="image" src="https://github.com/user-attachments/assets/1e8a9292-6ea7-4085-9beb-824302010457" />
+<img width="1470" height="420" alt="image" src="https://github.com/user-attachments/assets/1c4e9c03-541b-44cd-9b96-85fd6cc8d331" />
 
-<img width="1126" height="469" alt="image" src="https://github.com/user-attachments/assets/6849aa46-09ec-40fe-a6e2-536875a673e2" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/44f179d2-afb5-4dd8-a105-afe30420b79b" />
+
